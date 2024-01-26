@@ -27,5 +27,5 @@ Here, you can discover all the projects I'm working on (or have already complete
 
 📧And here is my email adress: nadia.godje@edu.devinci.fr
 
-![image](https://github.com/NadiaKlos/NadiaKlos/assets/117841779/26e356e1-9fd4-4246-bb1f-22e345f5df13)
+![image](https://github.com/NadiaKlos/NadiaKlos/assets/117841779/3214dcba-1204-43dc-ac2d-dfcb030b9a6d)
 
