@@ -24,3 +24,5 @@ collection and modelling to storage, analysis, and interpretation.📊
 Here, you can discover all the projects I'm working on (or have already completed 😎) and those I'm collaborating on.
 
 🔎If you want to know more about my experiences and my skills you can access my linkedin page at the following link: https://www.linkedin.com/in/nadia-godje/
+
+📧And here is my email adress: nadia.godje@edu.devinci.fr
